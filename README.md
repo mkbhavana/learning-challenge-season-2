@@ -11,3 +11,5 @@ String Formatting - tuple.
 ## Day 3
 Basic String Operations.
 Functions.
+Git operations
+version control
