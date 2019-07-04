@@ -13,6 +13,7 @@ Basic String Operations.
 Functions.
 Git operations
 version control
+
 ## Day 4
 classes and objects - accessing object variables, accessing object functions.
 Dictionaries - iterating over dictionaries, removing a value.
