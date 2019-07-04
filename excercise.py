@@ -224,3 +224,6 @@ def sum_two_numbers(a, b:)
 
 def sum_two_numbers(a, b):
     return a + b
+mylist = [1,2,3]
+print(mylist[1])
+
